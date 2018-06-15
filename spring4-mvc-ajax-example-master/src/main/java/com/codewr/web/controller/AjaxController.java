@@ -16,6 +16,10 @@ import com.codewr.web.model.AjaxResponseBody;
 import com.codewr.web.model.SearchCriteria;
 import com.codewr.web.model.User;
 
+/**
+ *
+ * @author codewr
+ */
 @RestController
 public class AjaxController {
 

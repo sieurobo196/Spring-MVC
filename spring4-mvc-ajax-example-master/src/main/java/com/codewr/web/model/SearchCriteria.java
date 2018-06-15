@@ -1,5 +1,9 @@
 package com.codewr.web.model;
 
+/**
+ *
+ * @author codewr
+ */
 public class SearchCriteria {
 
     String username;

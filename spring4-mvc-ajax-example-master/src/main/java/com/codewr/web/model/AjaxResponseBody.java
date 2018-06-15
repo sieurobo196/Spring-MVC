@@ -5,6 +5,10 @@ import java.util.List;
 import com.fasterxml.jackson.annotation.JsonView;
 import com.codewr.web.jsonview.Views;
 
+/**
+ *
+ * @author codewr
+ */
 public class AjaxResponseBody {
 
     @JsonView(Views.Public.class)

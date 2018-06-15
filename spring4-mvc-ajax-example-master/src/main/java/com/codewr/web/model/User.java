@@ -3,6 +3,10 @@ package com.codewr.web.model;
 import com.fasterxml.jackson.annotation.JsonView;
 import com.codewr.web.jsonview.Views;
 
+/**
+ *
+ * @author codewr
+ */
 public class User {
 
     @JsonView(Views.Public.class)
