@@ -11,7 +11,6 @@ import org.springframework.web.servlet.ModelAndView;
  *
  * @author codewr
  */
-
 @Controller
 public class HelloController {
 
