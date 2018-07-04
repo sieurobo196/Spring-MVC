@@ -5,7 +5,7 @@
     <artifactId>spring-mvc-logback</artifactId>
     <packaging>war</packaging>
     <version>1.0-SNAPSHOT</version>
-    <name>SpringMVC Logback</name>
+    <name>SpringMVC Logback Example</name>
 
     <properties>
         <jdk.version>1.7</jdk.version>
