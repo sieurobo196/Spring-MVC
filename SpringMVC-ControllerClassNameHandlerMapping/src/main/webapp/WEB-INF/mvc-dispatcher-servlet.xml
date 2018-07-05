@@ -4,8 +4,8 @@
 	http://www.springframework.org/schema/beans/spring-beans-2.5.xsd">
 
 	<bean class="org.springframework.web.servlet.mvc.support.ControllerClassNameHandlerMapping">
-		<property name="caseSensitive" value="true" />
-		<property name="pathPrefix" value="/customer" />
+		<!--<property name="caseSensitive" value="true" />-->
+		<!--<property name="pathPrefix" value="/customer" />-->
 	</bean>
 	
 	<bean class="com.codewr.common.controller.WelcomeController" />

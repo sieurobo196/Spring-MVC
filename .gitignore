@@ -15,3 +15,7 @@
 /SpringMVC-Helloworld-Annatation-Config/target/
 /SpringMVC-Form-Handle-Example/target/
 /SpringMVC-Logback-Example/target/
+/SpringMVC-BeanName-URL-Handler-Mapping/target/
+/SpringMVC-ControllerClassNameHandlerMapping/target/
+/SpringMVC-SimpleUrlHandlerMapping/target/
+/SpringMVC-HandlerMapping-Priority/target/
